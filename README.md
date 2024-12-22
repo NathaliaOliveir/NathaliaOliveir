@@ -15,4 +15,4 @@
 <p align="left"> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="r" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathaliaoliveir&show_icons=true&locale=en&layout=compact" alt="nathaliaoliveir" /></p>
 
-<img src="ezgif.com-animated-gif-maker.gif" alt="gif hi" width="300"/>
+<img src="ezgif.com-animated-gif-maker.gif" alt="gif hi" width="150"/>
